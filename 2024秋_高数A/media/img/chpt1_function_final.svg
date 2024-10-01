@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="134.321mm"
+   height="108.112mm"
+   viewBox="0 0 134.32101 108.112"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="chpt1_function_final.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3854833"
+     inkscape:cx="175.75094"
+     inkscape:cy="207.14793"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker22"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path22" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-48.669335,-41.986863)">
+    <rect
+       style="fill:#eae2f6;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.278883;stroke-dasharray:1.6733, 1.6733;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect23"
+       width="51.696915"
+       height="79.721115"
+       x="126.15406"
+       y="65.238205" />
+    <g
+       id="g2"
+       transform="matrix(0.54338052,0,0,0.50393104,57.113332,24.675147)"
+       style="fill:#defaff;fill-opacity:1;fill-rule:nonzero">
+      <rect
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.634455"
+         id="rect1"
+         width="39.247303"
+         height="18.678047"
+         x="22.51824"
+         y="44.592564"
+         ry="9.3390236" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.750001"
+         x="30.778585"
+         y="57.46212"
+         id="text2"><tspan
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75"
+           x="30.778585"
+           y="57.46212">学 生</tspan></text>
+    </g>
+    <rect
+       style="fill:#eae2f6;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.278883;stroke-dasharray:1.6733, 1.6733;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6"
+       width="51.696915"
+       height="79.721115"
+       x="53.808777"
+       y="65.238205" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.6;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 91.327264,51.852948 H 138.18887"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g8"
+       transform="matrix(1.0653703,0,0,1.1189893,34.764884,29.541409)"
+       style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.374576;stroke-dasharray:none">
+      <rect
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.172716;stroke-dasharray:none"
+         id="rect7"
+         width="39.247303"
+         height="18.678047"
+         x="22.51824"
+         y="44.592564"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.374576;stroke-dasharray:none"
+         x="30.778585"
+         y="57.46212"
+         id="text7"><tspan
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374576;stroke-dasharray:none"
+           x="30.778585"
+           y="57.46212">学 生</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+       x="75.427002"
+       y="85.87928"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-size:4.93889px;fill:#808080;stroke-width:0.75"
+         x="75.427002"
+         y="85.87928">姓名</tspan></text>
+    <rect
+       style="fill:#fdffde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.660828;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13"
+       width="41.5"
+       height="11.688229"
+       x="58.855"
+       y="88.30278"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.499999;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="61.525349"
+       y="96.238014"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.5"
+         x="61.525349"
+         y="96.238014">{<tspan
+   style="font-size:4.93889px"
+   id="tspan14">张三,李四,...</tspan>}</tspan></text>
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.584228;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="M 80.012414,56.559172 V 75.003726"
+       id="path21" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+       x="74.401047"
+       y="53.881416"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.75"
+         x="74.401047"
+         y="53.881416">学生</tspan></text>
+    <g
+       id="g17"
+       transform="translate(38.908938,15)">
+      <g
+         id="g5"
+         transform="matrix(0.54338052,0,0,0.50393104,91.586053,9.675147)"
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero">
+        <rect
+           style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.634455"
+           id="rect4"
+           width="39.247303"
+           height="18.678047"
+           x="22.51824"
+           y="44.592564"
+           ry="9.3390236" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.750001"
+           x="30.778585"
+           y="57.46212"
+           id="text5"><tspan
+             id="tspan5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75"
+             x="30.778585"
+             y="57.46212">学 生</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+         x="108.87377"
+         y="38.881416"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="stroke-width:0.75"
+           x="108.87377"
+           y="38.881416">成绩</tspan></text>
+    </g>
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.58087;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="M 154.20726,79.361126 V 60.87581"
+       id="path23" />
+    <g
+       id="g30"
+       transform="matrix(1.0653703,0,0,1.1189893,106.90299,29.541409)"
+       style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.374576;stroke-dasharray:none">
+      <rect
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.172716;stroke-dasharray:none"
+         id="rect29"
+         width="39.247303"
+         height="18.678047"
+         x="22.51824"
+         y="44.592564"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.374576;stroke-dasharray:none"
+         x="30.778585"
+         y="57.46212"
+         id="text29"><tspan
+           id="tspan29"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374576;stroke-dasharray:none"
+           x="30.778585"
+           y="57.46212">学 生</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+       x="147.56509"
+       y="85.87928"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-size:4.93889px;fill:#808080;stroke-width:0.75"
+         x="147.56509"
+         y="85.87928">绩点</tspan></text>
+    <rect
+       style="fill:#fdffde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.660828;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect30"
+       width="41.5"
+       height="11.688229"
+       x="131.09311"
+       y="88.30278"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.499999;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="140.72716"
+       y="96.593201"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.5"
+         x="140.72716"
+         y="96.593201">{A,B,C,D}</tspan></text>
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.617059;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="m 100.81348,94.146891 h 26.15995"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#808080;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0"
+       x="110.04212"
+       y="91.918747"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:5.64444px;fill:#000000;stroke-width:0.6"
+         x="110.04212"
+         y="91.918747">映射</tspan></text>
+    <g
+       id="g3"
+       transform="matrix(1.0653703,0,0,1.1189893,34.764884,68.663529)"
+       style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.374576;stroke-dasharray:none">
+      <rect
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.172716;stroke-dasharray:none"
+         id="rect3"
+         width="39.247303"
+         height="18.678047"
+         x="22.51824"
+         y="44.592564"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.374576;stroke-dasharray:none"
+         x="30.778585"
+         y="57.46212"
+         id="text3"><tspan
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374576;stroke-dasharray:none"
+           x="30.778585"
+           y="57.46212">学 生</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+       x="72.291855"
+       y="125.0014"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:4.93889px;fill:#808080;stroke-width:0.75"
+         x="72.291855"
+         y="125.0014">卡路里</tspan></text>
+    <rect
+       style="fill:#fdffde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.660828;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9"
+       width="41.5"
+       height="11.688229"
+       x="58.855"
+       y="127.42488"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.499999;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="61.525349"
+       y="135.36009"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.5"
+         x="61.525349"
+         y="135.36009">{<tspan
+   style="font-size:4.93889px"
+   id="tspan19">46,52,38,...</tspan>}</tspan></text>
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="m 80.012413,100.4438 v 14.00188"
+       id="path11" />
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="M 153.39408,119.0281 V 104.16943"
+       id="path13" />
+    <g
+       id="g15"
+       transform="matrix(1.0653703,0,0,1.1189893,106.90299,68.663529)"
+       style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.374576;stroke-dasharray:none">
+      <rect
+         style="fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.172716;stroke-dasharray:none"
+         id="rect14"
+         width="39.247303"
+         height="18.678047"
+         x="22.51824"
+         y="44.592564"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.374576;stroke-dasharray:none"
+         x="30.778585"
+         y="57.46212"
+         id="text15"><tspan
+           id="tspan15"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374576;stroke-dasharray:none"
+           x="30.778585"
+           y="57.46212">学 生</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+       x="147.56509"
+       y="124.98209"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="font-size:4.93889px;fill:#808080;stroke-width:0.75"
+         x="147.56509"
+         y="124.98209">分数</tspan></text>
+    <rect
+       style="fill:#fdffde;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.660828;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect16"
+       width="41.5"
+       height="11.688229"
+       x="131.09311"
+       y="127.42488"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#defaff;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.499999;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="134.2373"
+       y="135.26436"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="fill:#1a1a1a;stroke:none;stroke-width:0.5"
+         x="134.2373"
+         y="135.26436">{<tspan
+   style="font-size:4.93889px"
+   id="tspan20">76,89,90,...</tspan>}</tspan></text>
+    <path
+       style="fill:#f9ff95;fill-opacity:1;fill-rule:nonzero;stroke:#b1b1b1;stroke-width:0.617059;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker22)"
+       d="m 100.81348,133.26904 h 26.15995"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#808080;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0"
+       x="110.04212"
+       y="131.04088"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-size:5.64444px;fill:#000000;stroke-width:0.6"
+         x="110.04212"
+         y="131.04088">函数</tspan></text>
+    <g
+       id="g23"
+       transform="translate(4.9999996,8.1750001)">
+      <g
+         id="g21"
+         transform="matrix(0.50328054,0,0,0.47362167,37.82131,36.305147)"
+         style="fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <rect
+           style="fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.634455"
+           id="rect21"
+           width="39.247303"
+           height="18.678047"
+           x="22.51824"
+           y="44.592564"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.750001"
+           x="30.778585"
+           y="57.46212"
+           id="text21"><tspan
+             id="tspan21"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75"
+             x="30.778585"
+             y="57.46212">学 生</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+         x="53.386063"
+         y="63.876785"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           style="stroke:none;stroke-width:0.75"
+           x="53.386063"
+           y="63.876785">集合</tspan></text>
+    </g>
+    <g
+       id="g25"
+       transform="translate(77.336552,8.1750001)">
+      <g
+         id="g24"
+         transform="matrix(0.50328054,0,0,0.47362167,37.82131,36.305147)"
+         style="fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <rect
+           style="fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.634455"
+           id="rect24"
+           width="39.247303"
+           height="18.678047"
+           x="22.51824"
+           y="44.592564"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.750001"
+           x="30.778585"
+           y="57.46212"
+           id="text24"><tspan
+             id="tspan24"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Sans;-inkscape-font-specification:Sans;fill:#ffb8ac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75"
+             x="30.778585"
+             y="57.46212">学 生</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:SimHei;-inkscape-font-specification:SimHei;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-opacity:1"
+         x="53.386063"
+         y="63.876785"
+         id="text25"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           style="stroke:none;stroke-width:0.75"
+           x="53.386063"
+           y="63.876785">集合</tspan></text>
+    </g>
+  </g>
+</svg>
